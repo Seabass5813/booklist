@@ -10,7 +10,7 @@ export const BookContext = createContext();
         ]);
         
         const addBook = (title, author) => {
-            setBooks([...books, {title, author, id: v4}])
+            setBooks([...books, {title, author, id: v4()}])
         };
 
         const removeBook = (id) =>{
