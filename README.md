@@ -1,3 +1,7 @@
+# Watch YouTube Video for Lesson 19 - Reducers, Actions, & State
+
+https://www.youtube.com/watch?v=uXWycyeTeCs&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=20&ab_channel=TheNetNinja
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
